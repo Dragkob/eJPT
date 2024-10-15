@@ -3,6 +3,8 @@
 </h1>
 
 ## <p align="center">eJPTv2 Cheat Sheet | Course Notes</p>
+Exam review and what to expect <a href="https://dragkob.notion.site/eJPTv2-Review-Dragkob-11ec072638a6807e86e9ca8304f43b96" target="_blank">here</a>.
+<br />
 You'll find my comprehensive course notes, which also serve as cheat sheets for the eJPTv2 course. These are the exact materials I used during my exam. The notes are organized into sections based on specific topics, covering everything:
 <ul>
   <li><a href="https://github.com/Dragkob/eJPT/blob/main/PDFs%20(Section%20Split)/Dragkob_eJPT_InforGathering.pdf" target="_blank">Information Gathering</a></li>
